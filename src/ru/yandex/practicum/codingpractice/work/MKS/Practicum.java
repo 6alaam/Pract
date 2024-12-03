@@ -2,7 +2,10 @@ package ru.yandex.practicum.codingpractice.work.MKS;
 
 public class Practicum {
     private static final double ACCEPTABLE_VIBRATION = 1;
-
+// авЫФЫАВфыВАПФЫавФЫамФЫАААфывАфы
+    //ТПАЧПРТОЧВРЯЧВЕРТ
+    // dafdsfaFafasd
+    // saFDaDFssAFd
     public static void main(String[] args) {
         ISS spaceStation = new ISS(10, 50, 800);
         System.out.println("Международная космическая станция.");
